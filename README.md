@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kamranmeyo
 - 👀 I’m interested in App Devp, Wordpress, C# musch more..
-- 🌱 I’m currently learning App devp, C# , Flutter
-- 💞️ I’m looking to collaborate on C#,java, app devp,asp.net,Mysql,Wordpress and Flutter
+- 🌱 I’m currently learning App devp, C#, PHP, Flutter
+- 💞️ I’m looking to collaborate on C#,java, app devp,asp.net,php,Mysql,Wordpress and Flutter
 - 📫 How to reach me https://kamranmeyo.github.io
 - References:
 - https://arete.pk/ (latest Project)
