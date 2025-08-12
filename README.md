@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on C#,dot net, app devp,asp.net,php,Mysql,Wordpress, laravel and Flutter
 - 📫 How to reach me https://kamranmeyo.github.io
 - References:
-- https://arete.pk/ (latest Project)
+- https://www.naizindagi.org/ (latest Project)
+- https://arete.pk/
 - https://github.com/kamranmeyo/BIIT-Alumni-System (my fyp Project)
 - https://crownfixer.co.uk/
 - http://alphamarketerz.com/
